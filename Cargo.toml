@@ -1,0 +1,12 @@
+[package]
+name = "aur"
+version = "0.1.0"
+authors = ["Steven Allen <steven@stebalien.com>"]
+
+[dependencies]
+url = "^0.2"
+hyper = "^0.6"
+rustc-serialize = "^0.3"
+log = "^0.3"
+env_logger = "^0.3"
+chrono = "^0.2"
